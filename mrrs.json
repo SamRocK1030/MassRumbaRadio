@@ -2,7 +2,7 @@
 	{ "title" : "",
 	  "album" : "",
 	  "artist" : "",
-	  "genre" : "Salsa",
+	  "genre" : "",
 	  "source" : "http://94.23.6.53:8320/stream",
 	  "image" : "album_art.jpg",
 	  "trackNumber" : 1,

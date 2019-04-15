@@ -1,0 +1,13 @@
+{"music" : [ 
+	{ "title" : "",
+	  "album" : "",
+	  "artist" : "",
+	  "genre" : "Salsa",
+	  "source" : "http://94.23.6.53:8320/stream",
+	  "image" : "album_art.jpg",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 6,
+	  "duration" : 103,
+	  "site" : "https://www.youtube.com/audiolibrary/music"
+	}
+]}

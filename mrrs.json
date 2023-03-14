@@ -3,7 +3,7 @@
 	  "album" : "",
 	  "artist" : "",
 	  "genre" : "Salsa",
-	  "source" : "http://cast1.my-control-panel.com/proxy/massrumb/stream",
+	  "source" : "https://cast1.my-control-panel.com/proxy/massrumb/stream?type=https&nocache=2074",
 	  "image" : "MassRumbaLogo.jpg",
 	  "trackNumber" : 1,
 	  "totalTrackCount" : 6,
